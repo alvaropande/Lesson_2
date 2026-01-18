@@ -4,3 +4,4 @@ if warna=="biru" or warna=="Biru" or warna=="BIRU":
     print("Itu juga warna favoritku!")
 
 print('Sampai jumpa!')
+
